@@ -12,4 +12,4 @@ This application uses a combination of pre-trained language models and natural l
 
 Try it out by clicking the link below to visit the project:
 
-[Go to Fake News Debunker on Hugging Face](https://huggingface.co/spaces/your-username/fake-news-debunker)
+[Go to Fake News Debunker on Hugging Face](https://huggingface.co/spaces/Zeamays3427/fake-news-debunker)
