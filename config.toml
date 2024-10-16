@@ -28,8 +28,8 @@ posts = "/posts/:year/:month/:day/:slug/"
     url = "/cn/posts/"
     weight = 4
 [[menu.en]]  # Added Project section in English menu
-    name = "Project"
-    url = "/en/project/"
+    name = "Projects"
+    url = "/en/projects/"
     weight = 5
 
 [[menu.cn]]
@@ -46,7 +46,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 [[menu.cn]]  # Added 项目 (Project) section in Chinese menu
     name = "项目"
-    url = "/cn/project/"
+    url = "/cn/projects/"
     weight = 4
 
 [params]
